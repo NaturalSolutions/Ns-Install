@@ -15,8 +15,8 @@ Il te suffit donc d'exécuté un fichier .bat et laisser la magie faire 🧙🏻
 ## Pré-requis ⚠
 Que ces fichiers te donnent la main lors de l'installation et font pour toi le job, c'est une chose. Mais il ne vont pas non plus tout faire pour toi, pour entretenir une bonne relation, il faut que l'effort soit réciproque.  
 Pour que ces .bat fonctionnent il va te falloir :
-- [IIS](https://support.microsoft.com/fr-fr/help/323972/how-to-set-up-your-first-iis-web-site)
-- [Python](https://www.python.org/)
+- IIS [ici](https://support.microsoft.com/fr-fr/help/323972/how-to-set-up-your-first-iis-web-site)
+- Python [ici](https://www.python.org/)
 - ... (...)
 
 # Un retour dans le temps 👶🏻
