@@ -1,9 +1,9 @@
 # Bievenue 🙋🏻‍♂️🙋🏻‍♀️
 Ce répertoire a pour vocation de faciliter les installations de beaucoup d'applications développées par Natural Solution.  
 En voici une liste exhaustive :
-- Application 1
-- Application 2
-- Application 3
+- Central Monitoring
+- ...
+- ...
 
 # Comment ça marche 👩🏻‍🏫
 ## Une fichier d'installation par application 📁
