@@ -24,9 +24,8 @@ Pour que ces .bat fonctionnent il va te falloir :
 Un Natural Solutions, tout jeune et innofensif, qui n'était vraiment pas intuitif pour installer ses applications, on parlait alors de semaines entières dédiées, à installer les applications, à faire des allers retours avec les différents développeurs pour comprendre les problèmes qui intervenaient lors de l'installation d'une application, et ce jusqu'à faire tourner (ou presque) toutes les applications...
 
 ## Aujourd'hui 
-Mais maintenant c'est fini ! Ce répertoire est là pour mettre fin à ces heures de combat acharnées contre ton invite de commandes. Bienvenue dans le futur, bienvenue dans.. NS INSTALLER 
+Mais maintenant c'est fini ! Ce répertoire est là pour mettre fin à ces heures de combat acharné contre ton invite de commandes. Bienvenue dans le futur, bienvenue il est l'heure, bienvenue dans.. NS INSTALLER💥
 
 # Utilisation
 
 Lance le fichier d'installation `./monFichierdInstallation.bat` dans le répertoire wwwroot puis laisse la magie opérer !
-
