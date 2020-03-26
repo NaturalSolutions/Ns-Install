@@ -1,4 +1,4 @@
-# Bievenue 🙋🏻‍♂️🙋🏻‍♀️
+# Bienvenue 🙋🏻‍♂️🙋🏻‍♀️
 Ce répertoire a pour vocation de faciliter les installations de beaucoup d'applications développées par Natural Solutions.  
 En voici une liste exhaustive :
 - Central Monitoring
@@ -17,7 +17,7 @@ Que ces fichiers te donnent la main lors de l'installation et font pour toi le j
 Pour que ces .bat fonctionnent il va te falloir :
 - IIS [ici](https://support.microsoft.com/fr-fr/help/323972/how-to-set-up-your-first-iis-web-site)
 - Python [ici](https://www.python.org/)
-- Installer l'application `Portail` en premier
+- Pour les applications Reneco, installer l'application `Portail` en premier
 
 # Un retour dans le temps 👶🏻
 ## Il était une fois..
